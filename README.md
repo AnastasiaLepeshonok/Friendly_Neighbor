@@ -16,7 +16,6 @@
 - VK API
 - SQLite
 - Yandex Maps API
-- GitHub Projects
 
 ## Архитектура системы
 
