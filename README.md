@@ -53,3 +53,7 @@ python bot.py
 Полная техническая документация доступна в GitBook:
 
 https://app.gitbook.com/invite/AL6D6NewAcgEVrE8mL4E/HnKT2uBv9WnF0rJaMMz4
+
+или
+
+https://friendly-neighbor.gitbook.io/friendly-neighbor/
